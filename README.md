@@ -45,6 +45,11 @@ The following technologies were utilized in the development of SkyHigh:
 
 4. Run the application in Eclipse or deploy it to a server with Apache Tomcat or any other suitable web server.
 
+## Collaborators
+- Nur Amielia Natasha Binti Mohamad Nazli
+- Nur Eisyah Farihah Binti Mohd Dali
+- Aisyah Husna Jais
+
 ## Feedback and Support
 
 We welcome any feedback, suggestions, or bug reports related to the SkyHigh flight booking web application. Please feel free to raise an issue on this GitHub repository if you encounter any problems or have valuable insights to share.
